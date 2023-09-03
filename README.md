@@ -3,6 +3,7 @@
 > An under-featured and over-engineered calculator.
 
 <img src=".github/assets/images/screenshot.png" width="100%">
+`disclaimer: the text is in italian :p`
 
 ## Who? What? Why?
 
